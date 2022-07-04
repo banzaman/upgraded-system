@@ -46,11 +46,6 @@ To get a local copy up and running follow these simple example steps.
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 
-
-
-
-
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
