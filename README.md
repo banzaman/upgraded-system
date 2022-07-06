@@ -39,7 +39,7 @@ To get a local copy up and running follow these simple example steps.
 
 
 
-- GitHub: [@banzaman](https://github.com/githubhandle)
+
 - Twitter: [@banzamarq10](https://twitter.com/twitterhandle)
 - LinkedIn: [Mark Rubanza Anderson](https://linkedin.com/in/linkedinhandle)
 
