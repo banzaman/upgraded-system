@@ -1,8 +1,6 @@
 
 # Project Name
 
-
-
 - Technologies used
 
 ## Live Demo (if available)
