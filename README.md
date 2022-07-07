@@ -2,7 +2,7 @@
 # Project Name
 
 
-- Frameworks
+
 - Technologies used
 
 ## Live Demo (if available)
