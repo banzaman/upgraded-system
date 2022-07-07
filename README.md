@@ -1,11 +1,6 @@
 
 # Project Name
 
-
-
-
-
-
 - Major languages
 - Frameworks
 - Technologies used
