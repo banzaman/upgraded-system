@@ -1,6 +1,4 @@
 
-- Technologies used
-
 ## Live Demo (if available)
 
 [Live Demo Link]()
