@@ -1,6 +1,6 @@
 
 
-- Hat tip to anyone whose code was used
+anyone whose code was used
 - Inspiration
 - etc
 
