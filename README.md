@@ -1,7 +1,3 @@
-
-
-
-
 - etc
 
 ## 📝 License
