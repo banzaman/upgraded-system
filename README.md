@@ -1,7 +1,7 @@
 
 
 
-- Inspiration
+
 - etc
 
 ## 📝 License
