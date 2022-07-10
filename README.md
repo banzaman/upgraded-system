@@ -1,8 +1,4 @@
-
-Feel free to check the [issues page](../../issues/).
-
-
-## Acknowledgments.
+# Acknowledgments.
 
 - Hat tip to anyone whose code was used
 - Inspiration
