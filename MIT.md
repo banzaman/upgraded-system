@@ -1,4 +1,4 @@
-## Copyright 2021, [RUBANZA MARK]
+## Copyright 2021, [MARK RUBANZA]
 
 
 ###### APP TYPE can be a webpage/website, a web app, a software and so on
