@@ -1,7 +1,6 @@
 # TITLE OF THE PROJECT
 
-> This is the Capstone Project of the module(portal) in my journey through Microverse. The project is based on an online website for a conference designed by [Cindy Shin in Behance](https://www.behance.net/adagio07).
-
+> 
 ## Built With
 
 - HTML, CSS, JAVASCRIPT
