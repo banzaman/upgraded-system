@@ -1,5 +1,3 @@
-## README file
-
 # GLOBAL SUMMIT
 
 ![](https://img.shields.io/badge/Academic-blue)
