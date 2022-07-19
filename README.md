@@ -1,5 +1,4 @@
 ## README file
-![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # GLOBAL SUMMIT
 
