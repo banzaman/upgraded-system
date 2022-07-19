@@ -1,6 +1,5 @@
 # TITLE OF THE PROJECT
 
-![](https://img.shields.io/badge/SCSS-ff69b4)
 ![](https://img.shields.io/badge/JavaScript-yellow)
 
 > This is the Capstone Project of the module(portal) in my journey through Microverse. The project is based on an online website for a conference designed by [Cindy Shin in Behance](https://www.behance.net/adagio07).
