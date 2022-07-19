@@ -4,8 +4,8 @@
 
 ## Built With
 
-- LANGS
-- BOOTSTRAP, SASS
+- LANGS.
+- FRAMEWORKS.
 - GIT, GITHUB
 
 ## Live share 
