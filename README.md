@@ -6,7 +6,7 @@
 
 - LANGS.
 - FRAMEWORKS.
-- GIT, GITHUB
+- TOOLS.
 
 ## Live share 
 
