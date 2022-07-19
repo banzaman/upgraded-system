@@ -1,6 +1,7 @@
 # TITLE OF THE PROJECT
 
-> 
+> explain more abot the project.
+
 ## Built With
 
 - HTML, CSS, JAVASCRIPT
