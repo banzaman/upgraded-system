@@ -4,7 +4,7 @@
 
 ## Built With
 
-- HTML, CSS, JAVASCRIPT
+- LANGS
 - BOOTSTRAP, SASS
 - GIT, GITHUB
 
