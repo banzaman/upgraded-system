@@ -1,6 +1,5 @@
 # TITLE OF THE PROJECT
 
-![](https://img.shields.io/badge/Academic-blue)
 ![](https://img.shields.io/badge/HTML-red)
 ![](https://img.shields.io/badge/SCSS-ff69b4)
 ![](https://img.shields.io/badge/JavaScript-yellow)
