@@ -44,6 +44,3 @@ Feel free to check the [issues page](https://github.com/banzaman/congenial-fiest
 ## Acknowledgments
 
 - Original design and layout by [Cindy Shin in Behance](https://www.behance.net/adagio07).
-
-
-## 📝 License
