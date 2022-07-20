@@ -19,7 +19,7 @@ For live share here is the [link](https://banzaman.github.io/congenial-fiesta-ba
 
 - Click the green `Code` button on the repo
 - In your local PC, open your terminal in the folder you would like to clone the project.
-- Clone the repo with the command: `git clone (copied link)`; like so: `git clone https://github.com/banzaman/congenial-fiesta-balvin.github.io`
+- Clone the repo with the command: `git clone (copied link)`; like so:
 - On the terminal, navigate into the directory like so: 
 - Happy Review!
 
