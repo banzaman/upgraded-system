@@ -23,8 +23,6 @@ For live share here is the [link](https://banzaman.github.io/congenial-fiesta-ba
 - On the terminal, navigate into the directory like so: 
 - Happy Review!
 
-
-
 ## Authors
 
 👤 **Author1**
