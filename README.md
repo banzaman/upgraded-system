@@ -1,6 +1,6 @@
 # TITLE OF THE PROJECT
 
-> explain more abot the project.
+> explain more about the project.
 
 ## Built With
 
@@ -21,7 +21,7 @@ For live share here is the [link](https://banzaman.github.io/congenial-fiesta-ba
 - In your local PC, open your terminal in the folder you would like to clone the project.
 - Clone the repo with the command: ; like so:
 - On the terminal, navigate into the directory like so: 
-- Happy Review!
+- Happy Review!!
 
 ## Authors
 
