@@ -10,7 +10,8 @@
 
 ## Live share 
 
-For live share here is the [link](https://banzaman.github.io/congenial-fiesta-balvin.github.io/)
+For live share here is the [link](if available)
+
 ## Getting Started
 
 ### Setup
