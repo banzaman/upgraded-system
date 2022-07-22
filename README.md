@@ -41,5 +41,3 @@ Feel free to check the [issues page](https://github.com/banzaman/congenial-fiest
 
 
 ## Acknowledgments
-
-](https://www.behance.net/adagio07).
