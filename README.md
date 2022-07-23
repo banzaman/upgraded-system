@@ -10,8 +10,6 @@
 
 ## Live share 
 
-For live share here is the [link](if available)
-
 ## Getting Started
 
 ### Setup
