@@ -18,9 +18,6 @@ For live share here is the [link](if available)
 
 #### To get a local copy up and running follow these simple example steps.
 
-
-
-- Clone the repo with the command: ; like so:
 - On the terminal, navigate into the directory like so: 
 - Happy Review!!
 
