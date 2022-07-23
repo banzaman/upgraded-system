@@ -19,7 +19,7 @@ For live share here is the [link](if available)
 #### To get a local copy up and running follow these simple example steps.
 
 
-- In your local PC, open your terminal in the folder you would like to clone the project.
+
 - Clone the repo with the command: ; like so:
 - On the terminal, navigate into the directory like so: 
 - Happy Review!!
