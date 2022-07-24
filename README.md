@@ -30,7 +30,7 @@
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com//.github.io/issues).
+Feel free to check the [issues page](https://github.com//.io/issues).
 
 
 ## Acknowledgments
