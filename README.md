@@ -30,7 +30,7 @@
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/banzaman/congenial-fiesta-balvin.github.io/issues).
+Feel free to check the [issues page](https://github.com//congenial-fiesta-balvin.github.io/issues).
 
 
 ## Acknowledgments
